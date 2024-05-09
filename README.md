@@ -11,9 +11,11 @@
 
 <p float="left">
   <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/logo_orange_pi.png?raw=true"  width="100"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/raspberry_pi_logo.png?raw=true"  width="60"/>
 </p>
 
-This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But allow use of M2 expension card / SSD and add compatibility with M2 2280 card.
+This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But allow use of M2 expension card / SSD and add compatibility with M2 2280 module.
+As OrangePI Base board is compatible with Raspberry PI CM4, this case is also compatible with Raspberry PI CM4.
 
 <p float="left">
   <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full.JPG?raw=true"  width="49%"/>
