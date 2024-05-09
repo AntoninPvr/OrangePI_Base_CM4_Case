@@ -12,10 +12,9 @@
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But allow use of M2 expension card / SSD and add compatibility with M2 2280 card.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/top.JPG?raw=true"  width="300"/>
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/bottom.JPG?raw=true"  width="300"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full.JPG?raw=true"  width="42%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full_transparent.JPG?raw=true"  width="51%"/>
 </p>
-
 
 ## Compatibility
 This enclosure support following boards:
@@ -28,20 +27,28 @@ Ideal for a clean look or server applications like VPN, DNS...
 
 * `case_orange_pi_bottom.STL` Bottom part of the enclosure common to all
 * `case_orange_pi_top.STL` Orginal top part of the enclosure
+* `m2_cache.STL` Cache when M2 port is not used
+
+<p float="left">
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/top.JPG?raw=true"  width="42%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/bottom.JPG?raw=true"  width="51%"/>
+</p>
+
 
 ## M2 port
 
 The case is designed to support M2 2230, 2242 and 2280 card. The M2 port is accessible from the bottom of the case.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2.JPG?raw=true"  width="48%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2.JPG?raw=true"  width="42%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2_cover.JPG?raw=true"  width="51%"/>
 </p>
 
 ## Thermal management
 This enclosure is designed to be passive.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full_transparent.JPG?raw=true"  width="48%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/internal.JPG?raw=true"  width="48%"/>
 </p>
 
 ## Material and print settings
