@@ -12,8 +12,8 @@
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But allow use of M2 expension card / SSD and add compatibility with M2 2280 card.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full.JPG?raw=true"  width="42%"/>
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full_transparent.JPG?raw=true"  width="51%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full.JPG?raw=true"  width="49%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/full_transparent.JPG?raw=true"  width="49%"/>
 </p>
 
 ## Compatibility
@@ -40,8 +40,8 @@ Ideal for a clean look or server applications like VPN, DNS...
 The case is designed to support M2 2230, 2242 and 2280 card. The M2 port is accessible from the bottom of the case.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2.JPG?raw=true"  width="42%"/>
-  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2_cover.JPG?raw=true"  width="51%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2.JPG?raw=true"  width="47.6%"/>
+  <img src="https://github.com/AntoninPvr/OrangePI_Base_CM4_Case/blob/main/img/m2_cover.JPG?raw=true"  width="50%"/>
 </p>
 
 ## Thermal management
@@ -55,6 +55,8 @@ This enclosure is designed to be passive.
 Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.
 
 4x M2.5x24mm flat-head screws and 4x M2.5 nuts are needed to assemble the case.
+
+3x M2.5x24mm flat-head screws and 3x M2.5 nuts can be add.
 
 ## Boot/Reset/Recovery button
 3 integrated buttons are available on the top part of the enclosure.
